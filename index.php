@@ -20,7 +20,7 @@
 				MY MARKET
 			</h1>
 			<h3 class="naglowek2">
-				 - analiza sprzedaży sklepu internetowego Sebastian
+				 - analiza sprzedaży sklepu internetowego Sebastian < Radek
 			</h3>
 		</div>
 		<div class="orders">

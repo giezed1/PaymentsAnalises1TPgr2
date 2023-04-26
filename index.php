@@ -17,7 +17,7 @@
 	<div class="main">
 		<div class="banner">
 			<h1 class="naglowek1">
-				MY MARKET
+				MY MARKET Sebastian
 			</h1>
 			<h3 class="naglowek2">
 				 - analiza sprzedaży sklepu internetowego

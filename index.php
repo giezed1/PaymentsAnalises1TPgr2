@@ -17,10 +17,10 @@
 	<div class="main">
 		<div class="banner">
 			<h1 class="naglowek1">
-				MY MARKET Sebastian
+				MY MARKET
 			</h1>
 			<h3 class="naglowek2">
-				 - analiza sprzedaży sklepu internetowego
+				 - analiza sprzedaży sklepu internetowego Sebastian
 			</h3>
 		</div>
 		<div class="orders">
